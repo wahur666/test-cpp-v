@@ -1,0 +1,6 @@
+LIBRARY libv.c.dll
+
+EXPORTS
+square
+_vinit_caller
+_vcleanup_caller
